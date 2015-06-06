@@ -3,3 +3,9 @@
 
 ## Framework
 A Ruby framework for MediaWiki API manipulation: [MediaWiki::Gateway](https://github.com/iSCInc/mediawiki-gateway).
+
+## Installation
+* Get framework:
+```shell
+$ gem install mediawiki-gateway
+```
