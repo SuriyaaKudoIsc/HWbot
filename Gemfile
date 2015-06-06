@@ -1,0 +1,1 @@
+gem 'mediawiki-gateway'
