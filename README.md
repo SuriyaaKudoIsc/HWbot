@@ -14,3 +14,8 @@ Add it to your application's `Gemfile`:
 ```ruby
 gem 'mediawiki-gateway'
 ```
+
+Then execute the command:
+```shell
+$ bundle
+```
