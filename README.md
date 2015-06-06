@@ -10,12 +10,17 @@ A Ruby framework for MediaWiki API manipulation: [MediaWiki::Gateway](https://gi
 $ gem install mediawiki-gateway
 ```
 
-Add it to your application's `Gemfile`:
+* Clone project:
+```shell
+$ git clone https://github.com/SuriyaaKudoIsc/HWbot
+```
+
+* Add it to your application's `Gemfile`:
 ```ruby
 gem 'mediawiki-gateway'
 ```
 
-Then execute the command:
+* Then execute the command:
 ```shell
 $ bundle
 ```
