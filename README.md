@@ -9,3 +9,8 @@ A Ruby framework for MediaWiki API manipulation: [MediaWiki::Gateway](https://gi
 ```shell
 $ gem install mediawiki-gateway
 ```
+
+Add it to your application's `Gemfile`:
+```ruby
+gem 'mediawiki-gateway'
+```
